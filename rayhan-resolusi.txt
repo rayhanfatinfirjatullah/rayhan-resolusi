@@ -1,9 +1,11 @@
 🎯 RAYHAN RESOLUSI 2025–2030
+
 🧠 1. Pengembangan Diri & Mindset
 Konsisten menulis jurnal harian untuk refleksi dan evaluasi diri.
 Melatih disiplin lewat manajemen waktu yang seimbang antara sekolah, organisasi, dan belajar mandiri.
 Membaca minimal 1 buku tiap bulan (tentang teknologi, mindset, atau keuangan).
 Melatih komunikasi dan kepemimpinan agar bisa membawa Code-X jadi himpunan RPL paling solid dan inovatif.
+Melatih Time Management
 
 💻 2. Skill Coding & Teknologi
 Menguasai dasar-dasar Laravel, React, dan API integration sebelum lulus SMK.
