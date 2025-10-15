@@ -11,7 +11,7 @@ Melatih Time Management
 Menguasai dasar-dasar Laravel, React, dan API integration sebelum lulus SMK.
 Membangun minimal 3 project real (misalnya: website portfolio, sistem absensi Code-X, dan dashboard keuangan).
 Belajar dasar AI & Machine Learning untuk integrasi dengan project Web3.
-Aktif di GitHub: commit rutin, dokumentasi rapi, dan ikut kontribusi open-source kecil.
+Memiliki Communitas Tentang Coding, AI, & Web3
 
 🌐 3. Web3 & Crypto Journey
 Menjadi bounty hunter Web3 yang aktif dan produktif.
